@@ -1,0 +1,27 @@
+[info]
+ HEROES: an interactive vice-tainter
+ Copyright 2001
+ by Sean Barrett
+ Genre: fantasy
+ Difficulty: ^^^&&
+
+[description]
+ 
+ Do not rise. You must rest, dearest. Rest, and I will tell you a story.
+ 
+ No. Five stories.
+ 
+ Only one is true. But it would not have mattered which.
+ 
+ You will understand soon enough.
+ 
+
+[versions]
+HEROES.Z5=Release 2 / Serial number 011130
+
+[options]
+ARTWORK=0
+CLUES=0
+VERSIONS=0
+
+[eof]

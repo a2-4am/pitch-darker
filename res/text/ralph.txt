@@ -1,0 +1,28 @@
+[info]
+ RALPH: an interactive sniffing
+ Copyright 1996-2004
+ by Miron Schmidt
+ Genre: humor
+ Difficulty: ^&&&&
+
+[description]
+ 
+ Dozing lazily in the morning sun in your little hut, something suddenly
+ makes your ears go stiff. You scan the air, trying to figure out what it
+ was. You stretch your paws, reluctantly wag your tail, and get up.
+ 
+ Vigorously shaking the dust off of your fur, you have a sudden insight: the
+ perfect shape of a bone forms in your mind. Yeah, that's it! Somewhere,
+ somehow, there must still be a bone left from last fall. If only you could
+ remember where it was...
+ 
+
+[versions]
+RALPH.Z5=Release 9 / Serial number 040309
+
+[options]
+ARTWORK=0
+CLUES=0
+VERSIONS=0
+
+[eof]

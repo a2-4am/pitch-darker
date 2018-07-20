@@ -1,0 +1,31 @@
+[info]
+ SPIDER AND WEB
+ Copyright 1997-8
+ by Andrew Plotkin
+ Genre: science fiction
+ Difficulty: ^^^^&
+
+[description]
+ 
+ On the whole, it was worth the trip. The plains really were broad and
+ grain-gold, if scarred with fences and agricultural crawlers. The mountains
+ were overwhelming. And however much of the capital city is crusted with
+ squat brick and faceless concrete hulks, there are still flashes of its
+ historic charm. You've seen spires above the streets -- tiny green parks
+ below tenements -- hidden jewels of fountains beyond walls. Any bland alley
+ can conceal balconies wrought into iron gardens, fiery mosaics, a tree or
+ bed of flowers nurtured by who knows who.
+ 
+ This alley, however, is a total washout. It ends in flat bare dirty brick,
+ and you've found nothing but a door which lacks even the courtesy of a
+ handle. Maybe you should call it a day.
+
+[versions]
+TANGLE.Z5=Release 4 / Serial number 980226
+
+[options]
+ARTWORK=0
+CLUES=0
+VERSIONS=0
+
+[eof]

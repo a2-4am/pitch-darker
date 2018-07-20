@@ -1,0 +1,30 @@
+[info]
+ CURSES: An Interactive Diversion
+ Copyright 1993, 1994, 1995
+ by Graham Nelson
+ Genre: historical
+ Difficulty: ^^^&&
+
+[description]
+ 
+ It's become a matter of pride now not to give up. That tourist map of Paris
+ must be up here somewhere in all this clutter, even if it has been five
+ years since your last trip. And it's your own fault. It looks as if your
+ great- grandfather was the last person to tidy up these lofts...
+ 
+ The attics, full of low beams and awkward angles, begin here in a relatively
+ tidy area which extends north, south and east. The wooden floorboards seem
+ fairly sound, just as well considering how heavy all these teachests are.
+ But the old wiring went years ago, and there's no electric light.
+ 
+ A hinged trapdoor in the floor stands open, and light streams in from below.
+
+[versions]
+CURSES.Z5=Release 16 / Serial number 951024
+
+[options]
+ARTWORK=1
+CLUES=0
+VERSIONS=0
+
+[eof]

@@ -1,0 +1,29 @@
+[info]
+ shrapnel
+ copyright 2000
+ by adam cadre
+ genre: surreal
+ difficulty: ^^^&&
+
+[description]
+ 
+ You are standing west of a white house with a boarded front door.
+ 
+ You blink. Boarded? You came all this way and the door is boarded?
+ 
+ Is this supposed to be some sort of game?
+ 
+ Towering Carolina pines loom all around this clearing, silhouetted in the
+ dusk; soon it will be night.
+ 
+ It occurs to you that you have no memory at all of how you got here.
+
+[versions]
+SHRAPNEL.Z5=version 1.01 (12 february 2000) / serial number 9504
+
+[options]
+ARTWORK=0
+CLUES=0
+VERSIONS=0
+
+[eof]

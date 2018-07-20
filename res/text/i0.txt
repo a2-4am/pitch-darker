@@ -1,0 +1,30 @@
+[info]
+ I-0: the "jailbait on the interstate" game
+ Copyright 1997
+ by Adam Cadre
+ Genre: humor
+ Difficulty: ^&&&&
+
+[description]
+ 
+ You're Tracy Valencia, first-year student at the reasonably prestigious
+ University of Dorado. Sure, it's not Berkeley (hell, it isn't even
+ Stanford), but it's light-years better than Dorado State, where your older
+ brother Trevor goes. Dorado State's just a party school. Trevor makes a
+ point of rubbing this in every time he calls.
+ 
+ He'll be able to rub it in in person soon enough: it's Thanksgiving Day, and
+ you're driving home. Daddy was perfectly willing to buy you a plane ticket,
+ but like you told him on the phone, there are much better things to spend
+ the money on. Birthday presents, for instance -- you turn eighteen tomorrow.
+ Besides, it's only a four-hour drive.
+
+[versions]
+I0.Z5=Release 5 (v2.00) / Serial number 14729
+
+[options]
+ARTWORK=0
+CLUES=0
+VERSIONS=0
+
+[eof]

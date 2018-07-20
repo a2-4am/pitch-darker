@@ -1,0 +1,28 @@
+[info]
+ HUNTER, IN DARKNESS: a cave crawl
+ Copyright 1999
+ by "Dave Ahl Jr." (Andrew Plotkin)
+ Genre: fantasy
+ Difficulty: ^^^&&
+
+[description]
+ 
+ Nearly. Nearly. The animal stink is rank and close. You raise your crossbow,
+ try to peer beyond dark, wet stone.
+ 
+ A faint rustling echoes deep in the side chamber, and the laughing chitter
+ of bats.
+ 
+ Something shifts in the darkness ahead, a great silent bulk.
+ 
+ Your prey.
+
+[versions]
+HUNTDARK.Z5=Release 4 / Serial number 991119
+
+[options]
+ARTWORK=0
+CLUES=0
+VERSIONS=0
+
+[eof]

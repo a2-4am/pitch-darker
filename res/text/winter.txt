@@ -1,0 +1,28 @@
+[info]
+ WINTER WONDERLAND
+ Copyright 1999
+ by Laura A. Knauth
+ Genre: fantasy
+ Difficulty: ^^&&&
+
+[description]
+ 
+ In a far off land, there lies a little village nestled in a snowy
+ mountainscape. As the townsfolk joyously prepare for the coming winter
+ solstice, a young girl living with her family in a humble hut at the
+ outskirts of town gains no comfort in the festivities. Her closest
+ companion, her younger brother Sander Bales, has fallen seriously ill with a
+ fever and can barely lift his head from the bed upon which he lies. Young
+ Gretchen could hardly have suspected that such circumstances would cause the
+ fanciful events that were to occur upon this solstice eve.
+ 
+
+[versions]
+WINTER.Z5=Release 1 / Serial number 030227
+
+[options]
+ARTWORK=0
+CLUES=0
+VERSIONS=0
+
+[eof]

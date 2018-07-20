@@ -1,0 +1,34 @@
+[info]
+ FEAR: an interactive nightmare
+ Copyright 1996
+ by Chuan-Tze Teo
+ Genre: horror
+ Difficulty: ^^^&&
+
+[description]
+ 
+ You are running for your life down dark, labyrinthine corridors, your heart
+ pounding almost as loudly as the heavy boots of your relentless pursuer. But
+ your legs are collapsing under you, your breaths coming in ragged gasps. At
+ the last, strength fails you and you collapse face-down upon the unforgiving
+ concrete. Cold hands grasp your neck, hauling you upright, forcing your
+ unwilling eyes open to gaze into the hard, cruel, familiar face of your
+ captor - and you scream with the horrible recognition that those twisted
+ features are your own.
+ 
+ You are still screaming when you awaken in sweat-drenched clothes, deeply
+ relieved that it was only a dream. Yet something is not right. Why does the
+ darkness beyond the window look so threatening? Why do the sounds of the
+ night bear such menace? Indeed, why are you in such constant...
+ 
+ FEAR
+
+[versions]
+FEAR.Z5=Release 1 / Serial number 961012
+
+[options]
+ARTWORK=0
+CLUES=0
+VERSIONS=0
+
+[eof]

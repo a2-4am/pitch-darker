@@ -1,0 +1,49 @@
+[info]
+ WEARING THE CLAW: an interactive fantasy
+ Copyright 1996-7
+ by Paul O'Brian
+ Genre: fantasy
+ Difficulty: ^^^&&
+
+[description]
+ 
+ If it's not an adage, it ought to be: a lord asks no favor from a peasant.
+ Yet there he was, in your own family's modest home, waving what used to be
+ his hand in the air and looking at you with eyes full of supplication.
+ 
+ "You have proven yourself to be the ablest, cleverest, and wisest youth in
+ the province, and it is to you we must turn to save us from this
+ affliction," insisted Lord Midel. He gestured with his transformed hand,
+ which had become the paw of a lion, at the similarly changed appendages of
+ your family members. Following the arc of his paw, you ended up looking down
+ at your father's feet, changed into oxen hooves by the cruelty the wizard
+ Marnian had inflicted on your poor province and everyone in it.
+ 
+ Your mother's dove wing fluttered anxiously as she looked at you through
+ pained eyes, and said, "I fear for you, dear one, but perhaps you can find
+ on your quest some means of restoring prosperity to our village, which has
+ been too long poor." You gazed for the hundredth time at the too-worn,
+ too-old cottage, at your transformed brother and sister, and at your own
+ left hand, now the paw of a wolf, and finally turned to your lord, saying
+ "There seems no other path. I accept your proposal."
+ 
+ Lord Midel clapped you on the shoulder and said, "It's settled then -- I
+ believe you are the one who can save our people from this wearing of the
+ claw. Find the Pendant of Elinor, as the wizard has demanded, and bring it
+ back to me. It is the only thing that can save our province. Now come, for I
+ am not without magic of my own."
+ 
+ You gathered your things, said a solemn farewell to your family, and
+ followed Midel into the center of town, where he sprinkled a sparkling
+ powder over you, and recited an incantation... and you suddenly found
+ yourself alone on a dirt path, the cold wind assailing your face.
+
+[versions]
+CLAW.Z5=Release 3 / Serial number 970327
+
+[options]
+ARTWORK=1
+CLUES=0
+VERSIONS=0
+
+[eof]

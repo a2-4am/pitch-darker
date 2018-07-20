@@ -1,0 +1,41 @@
+[info]
+ GEIST: an interactive geek horror
+ Copyright 2014
+ by Dave Bernazzani, Dean Svendsen, Jonna Hind and Steven Robert
+ Genre: comedy
+ Difficulty: ^^^&&
+
+[description]
+ 
+ You were celebrating the arrival of the not-quite-second-half of the 21st
+ century with your buddies in your gaming basement when the bad news arrived:
+ Crazy Uncle Scott had finally given up the good fight and passed off into
+ gaming nirvana. He was an unusual man, with a firm belief that the world
+ went to hell in a hand-basket with the arrival of text messages, always
+ claiming that their phones were smarter than them! So he bought himself a
+ huge mansion and spent his last days there pining for the glory days of
+ yore, when websites were nothing more than acres of bright blue links thrown
+ willy-nilly onto a computer screen.
+ 
+ Somehow, though, he took a shine to you, and you were smart enough to hide
+ your smartphone whenever he came calling. Nevertheless, it was quite a
+ surprise to learn that he left you exactly half his will. And even more of a
+ surprise to discover that the lawyer's language was precise: not half his
+ massive fortune in Geekgold, but literally half his will. Along with a short
+ note explaining that to collect your full inheritance, you must retrieve the
+ second half of Crazy Uncle Scott's will from his old estate, Alden Manor.
+ The very name brings chills to your spine: that place is haunted!
+ 
+ But the true horror lay in the closing passage of the note:
+ 
+ Leave your Smartphone at home!
+
+[versions]
+GEIST.Z5=Release 21 / Serial number 140115
+
+[options]
+ARTWORK=1
+CLUES=0
+VERSIONS=0
+
+[eof]

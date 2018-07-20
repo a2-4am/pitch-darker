@@ -1,0 +1,34 @@
+[info]
+ INEVITABLE
+ Copyright 2003
+ by T. L. Heinrich (a.k.a. Kathleen M. Fischer)
+ Genre: science fiction
+ Difficulty: adjustable
+
+[description]
+ 
+ "Move!" you shout over the storm, shoving the Ambassador into the shuttle
+ then slamming the outer door closed, giving the vessel a solid rap when all
+ is secure. Backing up a few steps, you immediately lose the craft in the
+ driving rain, with only the whine of the engines indicating which way not to
+ go.
+ 
+ You turn away, struggling against rising winds as you retrace your steps to
+ your fighter and crawl inside, cringing when the shuttle's premature
+ lift-off sends a barrage of stones against your hull. Great, just what you
+ needed -- more dents.
+ 
+ Skipping preflight, you quickly check your straps, grab the stick and flip
+ the switch to fire the engines.
+ 
+ Nothing happens.
+
+[versions]
+INEVITA.Z5=Release 2 / Serial number 030428
+
+[options]
+ARTWORK=0
+CLUES=0
+VERSIONS=0
+
+[eof]

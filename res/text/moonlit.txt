@@ -1,0 +1,27 @@
+[info]
+ THE MOONLIT TOWER
+ Copyright 2002
+ by Yoon Ha Lee
+ Genre: fantasy
+ Difficulty: ^^^&&
+
+[description]
+ 
+ No, not a prison, though stone stands around you, as expressionless as a
+ mirror awaiting face and form; and in the silence you hear no plaint of
+ flute or roar of gong, but instead the crash of porcelain shattering.
+ 
+ Moonlight diffuses through the walls, tracing out unreadable sigils in
+ calligraphies of light and dark. Stairs adorned with bas-relief motifs
+ spiral downward.
+ 
+
+[versions]
+MOONLIT.Z5=Release 1 / Serial number 020927
+
+[options]
+ARTWORK=0
+CLUES=0
+VERSIONS=0
+
+[eof]

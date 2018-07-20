@@ -1,0 +1,36 @@
+[info]
+ AISLE: an instant in the life of a man
+ Copyright 1999
+ by Sam Barlow
+ Genre: slice of life
+ Difficulty: ^^^&&
+
+[description]
+ 
+ Late Thursday night. You've had a hard day and the last thing you need is
+ this: shopping. Luckily, the place is pretty empty and you're progressing
+ rapidly.
+ 
+ On to the next aisle.
+ 
+ Interesting... fresh Gnocchi--you haven't had any of that since... Rome.
+ 
+ The aisle stretches to the north, and back to the south. The shelves on
+ either side of you block your view of the rest of the supermarket, with only
+ the brightly coloured aisle markers visible.
+ 
+ You have stopped your trolley next to the pasta section, bright plastic bags
+ full of pale skin-tone shapes.
+ 
+ There is a brunette woman a few metres ahead, filling her trolley with
+ sauces.
+
+[versions]
+AISLE.Z5=Revision 3 / Release 1 / Serial number 990528
+
+[options]
+ARTWORK=1
+CLUES=0
+VERSIONS=0
+
+[eof]

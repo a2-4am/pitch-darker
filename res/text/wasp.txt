@@ -1,0 +1,35 @@
+[info]
+ STING OF THE WASP: interactive damage-control
+ Copyright 2004
+ by Jason Devlin
+ Genre: science fiction
+ Difficulty: ^^^&&
+
+[description]
+ 
+ "Oh, Julia! Where did you learn that?" Keith whispers breathlessly.
+ 
+ All tongue and fingers, he kisses the milky skin above your breasts, while
+ your hands slide their way up and down his sculpted chest, so eager with
+ lust that your watch occasionally snags on a stray chest hair. Your lips,
+ glistening like two fresh strawberries laced with dew, hungrily roam across
+ his neck. And your hips! Well, that's better left to the imagination.
+ 
+ Normally, you wouldn't even consider seeing Keith at Pine Meadows, but
+ Frank's in Boston and won't be back until tonight's banquet.  And when the
+ cat's away...
+ 
+ Just then, a low shelf wedges itself in to your back, jarring you from your
+ reverie. That's when you hear it.
+ 
+ A click. A flash. The tell-tale tapping of heels on concrete.
+
+[versions]
+WASP.Z5=Release 1 / Serial number 040622
+
+[options]
+ARTWORK=0
+CLUES=0
+VERSIONS=0
+
+[eof]

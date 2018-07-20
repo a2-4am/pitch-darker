@@ -1,0 +1,34 @@
+[info]
+ EARTH AND SKY
+ Copyright 2001
+ by Paul O'Brian
+ Genre: superhero
+ Difficulty: ^^^&&
+
+[description]
+ 
+ It's been almost a month since your parents disappeared.
+ 
+ One Tuesday, they just didn't come home, and there's been no sign of them
+ since. For the University and the rest of the town, the mystery is beginning
+ to pall. To those people, it's as if Claire and Scott Colborn suddenly
+ stopped existing -- strange and inexplicable, to be sure, but forgettable in
+ the long run.
+ 
+ But for you it's as if the ground beneath your feet stopped existing, and
+ you've been plummeting in freefall ever since. Your brother Austin, though,
+ has been a rock through the whole experience, handling the numbing details,
+ the endless meetings with useless detectives, even sorting through Mom and
+ Dad's lab in hopes of finding an answer. Now you stand outside the lab door,
+ clutching his note, hardly daring to hope that such an answer may have
+ arrived at long last.
+
+[versions]
+EAS.Z5=Release 1 / Serial number 010926
+
+[options]
+ARTWORK=1
+CLUES=0
+VERSIONS=0
+
+[eof]

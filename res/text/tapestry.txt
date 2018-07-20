@@ -1,0 +1,30 @@
+[info]
+ TAPESTRY: an interactive destiny
+ Copyright 1996
+ by Daniel Ravipinto
+ Genre: afterlife
+ Difficulty: ^^^&&
+
+[description]
+ 
+ Fleeting glimpses of faces half-remembered in the gloom. Screams, the sound
+ of squealing tires, a sudden thump, a sickening crunch and a violent jolt
+ followed by a sense of weightlessness and disassociation. The last thing you
+ remember is an overwhelming feeling of guilt and regret, forcing its way
+ through the chaos that surrounds you and then there is...
+ 
+ Your sight fails you. For that matter, you don't know if your eyes are
+ opened or closed. Concepts like time and place have no meaning here. Your
+ mind attempts to impose something, some order, some structure, upon the
+ space in which you exist, and fails. There is only the void. For all you
+ know, that is all there ever was.
+
+[versions]
+TAPESTRY.Z5=Release 1 / Serial number 961010
+
+[options]
+ARTWORK=0
+CLUES=0
+VERSIONS=0
+
+[eof]

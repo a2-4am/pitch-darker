@@ -1,0 +1,27 @@
+[info]
+ JIGSAW: an interactive history
+ Copyright 1995
+ by Graham Nelson
+ Genre: time travel
+ Difficulty: ^^^^&
+
+[description]
+ 
+ New Year's Eve, 1999, a quarter to midnight and where else to be but Century
+ Park! Fireworks cascade across the sky, your stomach rumbles uneasily, music
+ and lasers howl across the parkland...
+ 
+ Not exactly your ideal party (especially as that rather attractive stranger
+ in black has slipped back into the crowds) - but cheer up, you won't live to
+ see the next.
+ 
+
+[versions]
+JIGSAW.Z5=Release 3 / Serial number 951129
+
+[options]
+ARTWORK=1
+CLUES=1
+VERSIONS=0
+
+[eof]

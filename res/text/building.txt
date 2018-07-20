@@ -1,0 +1,43 @@
+[info]
+ BUILDING
+ Copyright 2005
+ by Poster
+ Genre: horror
+ Difficulty: ^^^&&
+
+[description]
+ 
+ You are wearing a leaden overcoat stumbling down a hallway filled with
+ strobe lights. Anxiety runs like an electric wire through your frame as you
+ can feel the eyes upon you; eyes, forever-staring; eyes boring holes through
+ your back; eyes peering out from translucent drawer-like plates in the
+ hall. You hold your breath hoping somehow to black out, but the floor melts
+ and the scene shifts.
+ 
+ You are running down an endless plain on a moonless night, where the stars
+ sit in judgement like needles waiting to fall upon you. It rains clocks and
+ they pelt you as you run, dodging shattered stopwatches and blaring alarm
+ clocks. The scene shifts again.
+ 
+ Every action seems in slow-motion as though you were moving through time.
+ You raise your head to look in the mirror and see yourself growing older, a
+ year for every moment. You turn away and look back to see a skeleton staring
+ back at you, its jaws gibbering madly.
+ 
+ Then you are sleeping. A gentle touch upon your shoulder and you awake,
+ blinking into focus a strange and yet uncannily familiar world. The
+ abandoned parking lot and the broken streets keen with secrets just out of
+ reach. Before you is the building. It lurks like a coiled dragon, a
+ summation of fear and deadly challenge, of past and of present. You hear a
+ final distant voice that seems a greeting as well as benediction, "This is
+ the dark night of the soul."
+
+[versions]
+BUILDING.Z5=Release 17 / Serial number 030706
+
+[options]
+ARTWORK=1
+CLUES=0
+VERSIONS=0
+
+[eof]

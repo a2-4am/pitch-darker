@@ -1,0 +1,31 @@
+[info]
+ A CHANGE IN THE WEATHER: an interactive short story
+ Copyright 1995-6
+ by Andrew Plotkin
+ Genre: fantasy
+ Difficulty: ^^^&&
+
+[description]
+ 
+ The picnic is going full blast, which is exactly why you've wandered away
+ from it. It's not that you don't like your new companions; it's just that
+ after weeks of spending each day around them, a noisy weekend cook-out isn't
+ the way to relax. Some exploration -- on your own -- is an appealing
+ thought.
+ 
+ None of them noticed you drifting away, anyhow.
+ 
+ The grasses are fragrant under the sunshine of a late, late summer
+ afternoon. A stream chatters by at your feet, and a weathered old wooden
+ bridge stretches across it to the east. Beyond the stream, a scrubby
+ hillside stretches upward.
+
+[versions]
+WEATHER.Z5=Release 6 / Serial number 960613
+
+[options]
+ARTWORK=0
+CLUES=0
+VERSIONS=0
+
+[eof]

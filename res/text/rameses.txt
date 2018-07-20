@@ -1,0 +1,34 @@
+[info]
+ RAMESES: A Tale of Heroes
+ Copyright 2000
+ by Stephen Bond
+ Genre: character study
+ Difficulty: ^^^^&
+
+[description]
+ 
+ I wake up.
+ 
+ With horror I realise that I'll have to spend another day in St. Enda's
+ college. A familiar fact I have to face each morning - but four years here
+ have not made it any easier to face. St. Enda's - how I have come to despise
+ this place. A decrepit old red-brick shagpile which has become the focal
+ point of this filthy little town in the arse-end of nowhere. The cheapest
+ boarding school in the country, probably, but also surely the most pompous
+ and inflated. A haven for the worst kind of social climbers, parvenus,
+ thick, ignorant farmers' sons...
+ 
+ With horror I also realise that I am an asshole. Another familiar fact, and
+ the last seventeen years have given me little reason to doubt it. I could
+ happily pick apart my faults all day - I'm too short, too shy, indecisive,
+ and uncharismatic. And I've got terrible posture.
+
+[versions]
+RAMESES.Z5=Release 1 / Serial number 000905
+
+[options]
+ARTWORK=1
+CLUES=0
+VERSIONS=0
+
+[eof]

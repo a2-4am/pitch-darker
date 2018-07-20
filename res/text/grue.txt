@@ -1,0 +1,28 @@
+[info]
+ GRUE
+ Copyright 2017
+ by Charles Mangin
+ Genre: fantasy
+ Difficulty: ^^^&&
+
+[description]
+ 
+ It is pitch black. You are a grue.
+ 
+ You are wedged comfortably into your lair, relaxing in the cold comfort of a
+ stone crevice, the walls worn smooth by years of occupation. Here, the
+ darkness is complete, like Mother's comforting, opaque fur. No luminous
+ fungi or glowing worms venture here with their harsh, painful light.
+ 
+ And your eyes are closed.
+ 
+
+[versions]
+GRUE.Z3=Release 1 / Serial number 171019
+
+[options]
+ARTWORK=0
+CLUES=0
+VERSIONS=0
+
+[eof]

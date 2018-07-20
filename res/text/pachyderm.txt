@@ -1,0 +1,28 @@
+[info]
+ HIDE A PACHYDERM! an interactive joke
+ Copyright 2015
+ by Simon Deimel
+ Genre: humor
+ Difficulty: ^&&&&
+
+[description]
+ 
+ Now you are gonna be in trouble. You are well aware of the fact that you are
+ not allowed to keep pets in your apartment, but you could not leave your
+ dear pet elephant behind when you moved in. He is your friend. You did your
+ best to keep him hidden from the neighbors and your landlord Julius
+ Vanderbuilt, an aged man with a stern look.
+ 
+ But someone must have noticed the trumpeting earlier today, and now some
+ person is knocking at your door, so you need to react.
+ 
+
+[versions]
+PACHYDERM.Z5=Release 10 / Serial number 151011
+
+[options]
+ARTWORK=0
+CLUES=0
+VERSIONS=0
+
+[eof]

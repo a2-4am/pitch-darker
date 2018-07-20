@@ -1,0 +1,56 @@
+[info]
+     E       U       I       N
+ D       L       S       O       S
+ Copyright 1996, 1997 by C.E. Forman
+ Genre: science fiction
+ Difficulty: ^^^&&
+
+[description]
+ 
+ Reality is so... unreal.
+ 
+ The tangle of observations woven about it, humankind's utter lack of
+ consensus, phases it to fit individual desires. Becoming and unbecoming,
+ back and forth eternally, as it paradoxically coexists with and within
+ infinite variations of itself...
+ 
+ At least, that's what always surfaces in your mind whenever your own
+ perception of reality is altered. Which is to say, ten or fifteen times a
+ day. But it's your job, working to someday entertain others with new
+ observations, new experiences, new realities. And after all, you signed up
+ for the Project (as you well remember, even though it was close to five
+ years ago), so you suppose it's entirely your fault if you don't like
+ it. Which, when you think about it, you realise you do.
+ 
+ Justy's voice reaches out to you from somewhere you can't see. "Okay, this
+ should be it. One final test run to check any overload potential, and this
+ world is done! I'm starting her up."
+ 
+ A loud CLANK, and the Sphere begins spinning, with you inside it.
+
+ "Brace yourself!"
+ 
+ Bright lights.
+ 
+ Pain.
+ 
+ From somewhere off in your mind's distance, a telltale splash.
+ 
+ Then, as the resounding thrums fade, a distorted ripple sweeps your vision
+ clear, and all traces of the laboratory vanish from your senses.
+ 
+ All five of them.
+ 
+ Wiped clean, twitching, anxious for new input.
+ 
+ Virtual reality has become reality.
+
+[versions]
+DELUSNS.Z5=Release 4 / Serial number 971121
+
+[options]
+ARTWORK=0
+CLUES=0
+VERSIONS=0
+
+[eof]

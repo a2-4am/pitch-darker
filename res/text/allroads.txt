@@ -1,0 +1,33 @@
+[info]
+ ALL ROADS
+ Copyright 2001
+ by Jon Ingold
+ Genre: historical
+ Difficulty: ^^^&&
+
+[description]
+ 
+ Something inside is telling you to wake up. Part of your mind says "Sunrise
+ approaches."
+ 
+ Underneath your dream you feel a deep shiver... It is a chime, the bell of a
+ clock-tower. Another follows, and another. You count them, fully awake
+ suddenly, counting them down. Six. Five. Four. Three.
+ 
+ Your eyes close, and your stomach tightens in anticipation. The sheets
+ around you feel very safe.
+ 
+ Two. One.
+ 
+ The first ray of sunlight lances through the slats in the window-blind. It
+ strikes your eyes, and you feel yourself go.
+
+[versions]
+ALLROADS.Z5=Release 1 / Serial number 011119
+
+[options]
+ARTWORK=1
+CLUES=0
+VERSIONS=0
+
+[eof]

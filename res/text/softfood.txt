@@ -1,0 +1,27 @@
+[info]
+ A DAY FOR SOFT FOOD
+ Copyright 1999
+ by Tod Levi
+ Genre: feline
+ Difficulty: ^^^&&
+
+[description]
+ 
+ Ever since the Provider's sickness began, he's been all hisses and growls.
+ Even the slightest misstep annoys him. Maybe that's why your bowl has held
+ nothing but hard food lately. And not much of that.
+ 
+ You awaken to a faint twitter. Perhaps a trick of the rising light, you
+ pinpoint a fluttering shape. Your quickened breath frosts the window pane,
+ the dawn promising no ordinary day.
+ 
+
+[versions]
+SOFTFOOD.Z5=Release 1 / Serial number 990930
+
+[options]
+ARTWORK=1
+CLUES=0
+VERSIONS=0
+
+[eof]

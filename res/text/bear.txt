@@ -1,0 +1,26 @@
+[info]
+ A BEAR'S NIGHT OUT: an interactive children's story
+ Copyright 1997-9
+ by David Dyte
+ Genre: fantasy
+ Difficulty: ^^^&&
+
+[description]
+ 
+ Some nights, when people are fast asleep, teddy bears are just waking up.
+ 
+ And some nights, those teddy bears make mischief.
+ 
+ And some nights, things somehow turn out for the best...
+ 
+ 
+
+[versions]
+BEAR.Z5=Release 5 / Serial number 990224
+
+[options]
+ARTWORK=0
+CLUES=0
+VERSIONS=0
+
+[eof]

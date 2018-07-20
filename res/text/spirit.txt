@@ -1,0 +1,27 @@
+[info]
+ SPIRITWRAK: an interactive fantasy adventure
+ Copyright 1996
+ by D.S. Yu
+ Genre: fantasy
+ Difficulty: ^^&&&
+
+[description]
+ 
+ You are standing in a monastery chapel. All around you, fellow Brothers of
+ the Order are standing, chanting. The eerie droning voices seem to
+ reverberate into the air.
+ 
+ At the front of the chapel, Brother Joseph stands in deep concentration,
+ holding the Rod of the Ancients.
+ 
+ 
+
+[versions]
+SPIRIT.Z5=Release 3 / Serial number 960606
+
+[options]
+ARTWORK=0
+CLUES=0
+VERSIONS=0
+
+[eof]

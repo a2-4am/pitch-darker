@@ -1,0 +1,29 @@
+[info]
+ VACATION GONE AWRY: an interactive story
+ Copyright 1988-2006
+ by Johan Berntsson, Fredrik Ramsberg and Staffan Friberg
+ Genre: science fiction
+ Difficulty: ^^^&&
+
+[description]
+ 
+ So, it's finally time again for the long awaited skiing holiday at your
+ cabin in the Black Forest in Germany. You have worked hard the last few
+ months at the office in Canberra and you don't mind leaving Australia for a
+ while.
+ 
+ Yesterday, you arrived in Germany and met up with your friend who lends you
+ a car whenever you are here. The flight was terrible and the food worse. You
+ have promised your wife and daughters that you'll try to change the return
+ ticket to another airline. However, as you wake up the first morning at the
+ cabin, you find that your family is gone...
+
+[versions]
+VACATION.Z5=Release 3 / Serial number 060527
+
+[options]
+ARTWORK=0
+CLUES=0
+VERSIONS=0
+
+[eof]

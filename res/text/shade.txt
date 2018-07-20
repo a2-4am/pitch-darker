@@ -1,0 +1,29 @@
+[info]
+ *** SHADE ***
+ Copyright 2000
+ by "Ampe R. Sand" (Andrew Plotkin)
+ Genre: surreal
+ Difficulty: ^^^^&
+
+[description]
+ 
+ Odd, how the light just makes your apartment gloomier. Pre-dawn darkness
+ pools in the corners and around the tops of walls. Your desk lamp glares
+ yellow, but the shadows only draw your eyes and deepen.
+ 
+ Not much of an apartment, no. One desk, paper-piled, with a dusty computer
+ shoved to the side. Your futon. Second-hand stereo sitting on a cardboard
+ crate. A kitchen nook one way and a bathroom nook the other, with a closet
+ to the side. A broad mirror tries to make the place seem twice its size; it
+ halfway works. One window, whose shade is down, and the front door firmly
+ shut.
+
+[versions]
+SHADE.Z5=Release 3 / Serial number 001127
+
+[options]
+ARTWORK=1
+CLUES=0
+VERSIONS=0
+
+[eof]

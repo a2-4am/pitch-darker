@@ -1,0 +1,36 @@
+[info]
+ YAGWAD: Yes, Another Game With A Dragon!
+ Copyright 2000
+ by Digby McWiggle
+ Genre: satire
+ Difficulty: ^^&&&
+
+[description]
+ 
+ The ledge narrows dangerously. You press your taut bronzed body against the
+ cliff face as a dislodged rock soars into the emptiness below. The night sky
+ yawns black and starless, waiting to swallow you whole. Sliding around the
+ point of a spur you find yourself at the mouth of a glittering cave.
+ 
+ You have found her! She looks up at you, wild eyes glinting through a
+ dishevelled veil of hair.
+ 
+ The ledge widens here at the mouth of a deep cave. The light from several
+ flickering torches sparkles and dances as it reflects back from the tonnes
+ of gold coins and precious stones piled carelessly about.
+ 
+ Amidst the loot stands a stalagmite encrusted with saltpetre.
+ 
+ The woman is chained near the cliff edge, her hair tangled and clothes
+ ripped to the merest rags. She looks up as you approach. Her chest heaves -
+ "You've come!" she breathes.
+
+[versions]
+YAGWAD.Z5=Release 2 / Serial number 001121
+
+[options]
+ARTWORK=0
+CLUES=0
+VERSIONS=0
+
+[eof]

@@ -1,0 +1,30 @@
+[info]
+ FOR A CHANGE
+ Copyright 1999
+ by Dan Schmidt
+ Genre: surreal
+ Difficulty: ^^^&&
+
+[description]
+ 
+ The sun has gone. It must be brought. You have a rock.
+ 
+ Sweetness fills the shade of the High Wall to your east. Under this
+ sweetness lies a small expanse of fod. A mobile releases mildly to the west;
+ far in that direction a tower proudly plants itself, while the ground rises
+ more slowly to the south and relaxes to the north.
+ 
+ Spread on the resting is a guidebook.
+ 
+ Sleep gradually departs from your eyes. A small stone has been insinuated
+ into your hand.
+
+[versions]
+CHANGE.Z5=Release 1 / Serial number 990930
+
+[options]
+ARTWORK=1
+CLUES=0
+VERSIONS=0
+
+[eof]

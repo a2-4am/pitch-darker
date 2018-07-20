@@ -1,0 +1,29 @@
+[info]
+ THE EDIFICE: an interactive allegory
+ Copyright 1997
+ by Lucian P. Smith
+ Genre: science fiction
+ Difficulty: ^^^&&
+
+[description]
+ 
+ Life is pretty routine. Search for Food. Eat it. Hide from Enemies. Ignore
+ the Others. Then one day, you notice a staggeringly tall Edifice, right here
+ in the middle of the forest. Has it been here before?
+ 
+ Here, in the forest where you have spent your entire life, stands a huge
+ Edifice, reaching into the clouds high above you.
+ 
+ The Others are here, doing typically boring things.
+ 
+ Though you can't see them, you sense your Enemies lurk nearby.
+
+[versions]
+EDIFICE.Z5=Release 2 / Serial number 980206
+
+[options]
+ARTWORK=1
+CLUES=0
+VERSIONS=0
+
+[eof]

@@ -1,0 +1,35 @@
+[info]
+ SUVEH NUX
+ Copyright 2007
+ by David Fisher
+ Genre: fantasy
+ Difficulty: ^^&&&
+
+[description]
+ 
+ "Yes, master?"
+ 
+ You rush to your master's side and await his instructions. He is studying a
+ fragile looking scroll and muttering to himself.
+ 
+ He looks up and says, "Ah, there you are. This ..." -- he hands you the
+ scroll -- " ... goes back in the vault. I believe it is still open. And this
+ little beastie ..." -- he hands you a small, empty brass cage -- "... goes
+ back to my private quarters. Thank you, that will be all."
+ 
+ You bow, and head downstairs to the vault. The heavy stone door is wide
+ open, and a golden key juts out of the lock.
+ 
+ Without warning, someone shoves you roughly from behind. The scroll and the
+ brass cage fly out of your hands as you fall to the ground. There is a loud
+ "click", and everything turns black.
+
+[versions]
+SUVEHNUX.Z5=Release 1 / Serial number 071226
+
+[options]
+ARTWORK=1
+CLUES=0
+VERSIONS=0
+
+[eof]

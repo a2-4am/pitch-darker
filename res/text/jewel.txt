@@ -1,0 +1,28 @@
+[info]
+ THE JEWEL OF KNOWLEDGE
+ Copyright 1999
+ by Francesco Bova
+ Genre: science fiction
+ Difficulty: adjustable
+
+[description]
+ 
+ Endless dark and foreboding passages surround you on all sides. You're cold,
+ tired, and that musty smell in the air has really started getting to you
+ lately. Spelunking seemed much more romantic when you first agreed to accept
+ the mission for the Jewel. Untold riches, fame, glory; it seemed so perfect.
+ Now you're a month into the expedition with little to show for it except for
+ a few rock samples and the death of a party member. You're deep inside the
+ fifth layer of the Earth's crust, surrounded by tight shafts and ominous
+ pits. You are quickly descending to the sixth and final layer; the resting
+ place of the fabled Jewel.
+
+[versions]
+JEWEL.Z5=Release 2 / Serial number 990710
+
+[options]
+ARTWORK=0
+CLUES=0
+VERSIONS=0
+
+[eof]

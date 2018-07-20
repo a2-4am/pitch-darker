@@ -1,0 +1,29 @@
+[info]
+ SHE'S GOT A THING FOR A SPRING
+ Copyright 1997
+ by Brent VanFossen
+ Genre: travel
+ Difficulty: ^^&&&
+
+[description]
+ 
+ It's been a hectic year, and it's time to get away. He told you that, and
+ you agreed. Now, after weeks of travel and thousands of miles, you start to
+ wish for some of the comforts of home. As good as it's been, there's just
+ one important thing missing: when was the last time you had a real bath?
+ 
+ You stand in the middle of a grove of aspen, which extends in all
+ directions. Slender white trunks reach for the sky with long thin fingers,
+ stroking the clouds that blow in the autumn breeze. Leaves of gold rattle as
+ the winds shift, and here and there one floats to the ground to join others
+ that crackle underfoot when you move.
+
+[versions]
+SPRING.Z5=Release 1 / Serial number 970929
+
+[options]
+ARTWORK=0
+CLUES=0
+VERSIONS=0
+
+[eof]

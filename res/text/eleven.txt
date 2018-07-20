@@ -1,0 +1,34 @@
+[info]
+ FILM AT ELEVEN: a day in the life of Betty Byline
+ Copyright 2001
+ by Bowen Greenwood
+ Genre: comedy
+ Difficulty: ^^^&&
+
+[description]
+ 
+ Welcome to a day in the life of Betty Byline! Two months out of journalism
+ school you enter the workplace with big time dreams of network television
+ news. Fame, fortune and glory, all writ large under the unrelenting gaze of
+ the klieg lights. There are eight million stories in the Naked City, and
+ it's your job to tell them, tell them best, and tell them first.
+ 
+ Unfortunately this isn't the Naked City. This is Pleasantville, USA,
+ population 50,000. And you're not exactly working for the network news.
+ You're working for local television station KTKO, the Knockout News Team --
+ a one camera, one reporter operation with a fat, balding old news director
+ who smokes cheap cigars. Forget fortune and glory, for now your big career
+ objective is not to have to give too many on-air endorsements of "Kletus's
+ Used Car and Farm Implement Emporium." OK, so maybe you're not Dan Rather
+ yet. Everybody has to start somewhere, and at least this is a start in front
+ of a camera.
+
+[versions]
+ELEVEN.Z5=Release 2 / Serial number 001231
+
+[options]
+ARTWORK=0
+CLUES=0
+VERSIONS=0
+
+[eof]

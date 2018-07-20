@@ -1,0 +1,35 @@
+[info]
+ THE METEOR, THE STONE AND A LONG GLASS OF SHERBET
+ Copyright 1996
+ by Graham Nelson (a.k.a. Angela M. Horns)
+ Genre: fantasy
+ Difficulty: ^^^^&
+
+[description]
+ 
+ Another day wasted as guest of the Empress, a wretchedly long tour of the
+ breath-taking Boreal Falls, conducted as ever by the Lady Amilia. As if she
+ weren't bad enough, an honour guard of soldiers, their breast-plates red in
+ the setting sun, march ahead of the procession and protect you from seeing
+ anything unrehearsed. It's a dog's life being an Ambassador.
+ 
+ The ancient paved road stretches for miles to the south, turning very slowly
+ to the northeast along a mossy stone wall. From up here on your elephant's
+ wickerwork basket, you're just level with the branches of the old Imperial
+ hunting woods inside the wall.
+ 
+ Having been stuck in this cushioned basket with the Lady Amilia every day
+ for a fortnight, you're just desperate to get away.
+ 
+ The procession of elephants shuffles on, their enormous soles slapping onto
+ the flagstones with a dull, regular boom.
+
+[versions]
+SHERBET.Z5=Release 2 / Serial number 961216
+
+[options]
+ARTWORK=1
+CLUES=0
+VERSIONS=0
+
+[eof]

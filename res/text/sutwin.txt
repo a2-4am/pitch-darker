@@ -1,0 +1,28 @@
+[info]
+ THE SPACE UNDER THE WINDOW
+ Copyright 1997
+ by Andrew Plotkin
+ Genre: romance
+ Difficulty: ^^&&&
+
+[description]
+ 
+ The window is closed, so you can't go inside.
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+[versions]
+SUTWIN.Z5=Release 2 / Serial number 970402
+
+[options]
+ARTWORK=1
+CLUES=0
+VERSIONS=0
+
+[eof]

@@ -1,0 +1,28 @@
+[info]
+ THEATRE: an interactive night of horror
+ Copyright 1995 Cave Rock Software Ltd.
+ by Brendon Wyber and Graham Nelson
+ Genre: horror
+ Difficulty: ^^^&&
+
+[description]
+ 
+ Another day, another dollar! Life is good at the moment, the property market
+ is booming. Still, it does have its down side; when showing those Mulluer
+ Corporation executives around that old theatre dump, err, opportunity you
+ must have left your pager down in the basement. Better hurry, you have to
+ meet the others at the opera in an hour, and be careful. It wouldn't do to
+ show up with your clothes all dirty.
+ 
+ This room is a tribute to the now-faded glory of the theatre. The still-
+ smiling faces of forgotten productions stare out from faded posters at you.
+
+[versions]
+THEATRE.Z5=Release 2 / Serial Number 951203
+
+[options]
+ARTWORK=0
+CLUES=0
+VERSIONS=0
+
+[eof]
