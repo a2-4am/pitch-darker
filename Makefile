@@ -80,6 +80,8 @@ md:	sync
 sync:
 	rsync -a --delete --delete-after ../pitch-dark/bin .
 	rsync -a --delete --delete-after ../pitch-dark/src .
+	patch src/ui.common.a patches/ui.common.a
+	patch src/ui.credits.a patches/ui.credits.a
 
 clean:
 	rm -rf build/ bin/ src/
