@@ -1,0 +1,29 @@
+[info]
+ BEHIND CLOSED DOORS 9 (Origami For Balrogs)
+ Copyright 2020
+ by John Wilson
+ Genre: fantasy
+ Difficulty: ^^^&&
+
+[description]
+ 
+ Shuffling down the garden path, Balrog pushes open the door to the smallest-
+ room and enters, before removing his bathrobe and dropping it on to the cold
+ stone slabs that formed the base of the hut. Amidst great clouds of green
+ gas and accompanied by a multitude of thunderous noises, Balrog spent the
+ next twenty minutes performing his morning business .....
+ 
+ As the last tendrils of green-gas drifted skywards, Balrog rises to his
+ feet, puts on his bathrobe and tightens the drawstring. "Time for breakfast"
+ he thinks, as a great smile crosses his face.
+ 
+
+[versions]
+BCD9.Z3=Release 1 / Serial number 201111 / Inform v6.34 PunyInform v1.7
+
+[options]
+ARTWORK=0
+CLUES=0
+VERSIONS=0
+
+[eof]
