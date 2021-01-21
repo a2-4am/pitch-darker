@@ -1,0 +1,27 @@
+[info]
+ RETURN TO THE CASTLE: Retarded Creatures and Caverns 2
+ Copyright 2020
+ by John Wilson
+ Genre: fantasy
+ Difficulty: ^^^&&
+
+[description]
+ 
+ Algy had spent the last 30 years basking in the reflective glory of his
+ original foray into the far from gentle art of 'Retarded Creatures and
+ Caverns' but recently he had noticed a waning in the interest of the public
+ at large. Perhaps it was time for him to journey forth again and do battle
+ with the mighty Dragon.
+ 
+ And so it was that Algy made his way to Castle Toidi ...
+ 
+
+[versions]
+RCAC8B.Z3=Release 1 / Serial number 201201 / Inform v6.34 PunyInform v1.7
+
+[options]
+ARTWORK=0
+CLUES=0
+VERSIONS=0
+
+[eof]
