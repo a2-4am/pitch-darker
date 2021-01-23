@@ -1,0 +1,29 @@
+[info]
+ DUNGEON
+ Copyright 1978, 1979 Massachusetts Institute of Technology
+ by Tim Anderson, Marc Blank, Bruce Daniels, and Dave Lebling
+ Genre: fantasy
+ Difficulty: ^^^^&
+
+[description]
+ 
+ ZORK (DUNGEON) is a game of adventure, danger, and low cunning. In it you
+ will explore some of the most amazing territory ever seen by mortal man.
+ Hardened adventurers have run screaming from the terrors contained within!
+ 
+ In ZORK the intrepid explorer delves into the forgotten secrets of a lost
+ labyrinth deep in the bowels of the earth, searching for vast treasures
+ long hidden from prying eyes, treasures guarded by fearsome monsters and
+ diabolical traps!
+ 
+ No PDP-10 should be without one!
+
+[versions]
+ZDUNGEON.Z5=Release 13 / Serial number 040826 / Inform v6.14 Library 6/7
+
+[options]
+ARTWORK=0
+CLUES=0
+VERSIONS=0
+
+[eof]
