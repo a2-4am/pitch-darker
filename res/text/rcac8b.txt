@@ -20,7 +20,7 @@
 RCAC8B.Z3=Release 1 / Serial number 201201 / Inform v6.34 PunyInform v1.7
 
 [options]
-ARTWORK=0
+ARTWORK=1
 CLUES=0
 VERSIONS=0
 
