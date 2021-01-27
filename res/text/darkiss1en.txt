@@ -1,0 +1,28 @@
+[info]
+ DARKISS! WRATH OF THE VAMPIRE - CHAPTER 1: THE AWAKENING
+ Copyright 2016 (Creative Commons BY-NC-ND 4.0 International)
+ by Marco Vallarino
+ Genre: horror
+ Difficulty: ^^^&&
+
+[description]
+ 
+ You open your eyes, feeling alive again, after being... dead?
+ 
+ Who are you? You need some time to remember.
+ 
+ It's dark, but you can see.
+ 
+ You are in a sinister place, and should be frightened. Or perhaps not...
+ 
+ You are unbearably thirsty, but not for water.
+
+[versions]
+DARKISS1EN.Z5=Release 2 / Serial number 160130 / Inform v6.33 Library 6/11
+
+[options]
+ARTWORK=0
+CLUES=0
+VERSIONS=0
+
+[eof]
