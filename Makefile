@@ -9,7 +9,7 @@
 # adapted by 4am on 2018-07-07
 #
 
-DISK=Pitch Darker.2mg
+DISK=Pitch Darker.hdv
 
 # third-party tools required to build
 # https://sourceforge.net/projects/acme-crossass/
@@ -37,7 +37,7 @@ asm: md
 	$(ACME) -r build/zinfo5u.lst src/zinfo/z5u/z5u.s
 
 dsk: md asm
-	cp res/"pitch-darker.2mg" build/"$(DISK)"
+	cp res/"pitch-darker.hdv" build/"$(DISK)"
 	cp res/_FileInformation.txt build/
 	bin/fixFileInformation.sh build/_FileInformation.txt
 	$(CADIUS) ADDFILE build/"$(DISK)" "/PITCH.DARKER/" "build/GRUE.SYSTEM"

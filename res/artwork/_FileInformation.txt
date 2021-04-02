@@ -1,6 +1,7 @@
 AISLE=Type(06),AuxType(2000),Access(C3)
 ALLROADS=Type(06),AuxType(2000),Access(C3)
 BUILDING=Type(06),AuxType(2000),Access(C3)
+CALYPSO=Type(06),AuxType(2000),Access(C3)
 CHANGE=Type(06),AuxType(2000),Access(C3)
 CLAW=Type(06),AuxType(2000),Access(C3)
 CURSES=Type(06),AuxType(2000),Access(C3)

@@ -1,0 +1,26 @@
+[info]
+ CALYPSO
+ Copyright 2014-2021 (GPL 3)
+ by Dave Footitt
+ Genre: mystery
+ Difficulty: ^^&&&
+
+[description]
+ 
+ Darkness. Quickly, this is followed by a burning white light accompanied by
+ intense pain rocketing up and down your body. Your efforts to scream are
+ initially silent, giving way after a few seconds to a piercing scream as the
+ bright light fades...
+ 
+ Coming around in a lighthouse with no memory of who you are or how you got
+ there, can you solve the mystery and win the game?
+
+[versions]
+CALYPSO.Z3=Release 6 / Serial number 210402 / Inform v6.35 PunyInform v2.2
+
+[options]
+ARTWORK=1
+CLUES=0
+VERSIONS=0
+
+[eof]
