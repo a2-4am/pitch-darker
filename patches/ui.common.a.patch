@@ -1,8 +1,6 @@
-diff --git a/src/ui.common.a b/src/ui.common.a
-index 6145f3e..9d7c2a2 100644
---- a/src/ui.common.a
-+++ b/src/ui.common.a
-@@ -31,11 +31,11 @@ gViewInUse
+--- ../pitch-dark/src/ui.common.a	2018-07-21 10:34:52
++++ src/ui.common.a	2023-05-03 00:27:08
+@@ -31,11 +31,11 @@
           !byte 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
  
  kStringGlobalTitle

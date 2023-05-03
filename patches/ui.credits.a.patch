@@ -1,28 +1,26 @@
-diff --git a/src/ui.credits.a b/src/ui.credits.a
-index 72ef281..2490c6d 100644
---- a/src/ui.credits.a
-+++ b/src/ui.credits.a
-@@ -226,17 +226,17 @@ creditsSectionPointers               ; [array of word] address of start of each
+--- ../pitch-dark/src/ui.credits.a	2023-05-03 00:07:25
++++ src/ui.credits.a	2023-05-03 00:25:41
+@@ -226,17 +226,17 @@
           !word $FDFD
  
  kCreditsTop                          ; [array of byte] top row to draw border for each section of credits
 -         !byte 7                     ; note: stored here in reverse order compared to the credits file
 -         !byte 2
 -         !byte 5
-+         !byte 11                     ; note: stored here in reverse order compared to the credits file
-+         !byte 9
-+         !byte 9
++         !byte 11                    ; note: stored here in reverse order compared to the credits file
++         !byte 6
++         !byte 6
           !byte 8
           !byte 8
-          !byte 8
+          !byte 7
  
  kCreditsHeight                       ; [array of byte] height of bounding box for each section of credits
 -         !byte 10                    ; note: stored here in reverse order compared to the credits file
 -         !byte 20
 -         !byte 14
-+         !byte 3                    ; note: stored here in reverse order compared to the credits file
++         !byte 3                     ; note: stored here in reverse order compared to the credits file
 +         !byte 6
 +         !byte 6
           !byte 8
           !byte 9
-          !byte 8
+          !byte 10
