@@ -1,0 +1,7 @@
+--- ../pitch-dark/res/artworkgs/_FileInformation.txt	2018-04-20 10:38:36
++++ res/artworkgs/_FileInformation.txt	2023-05-05 15:45:59
+@@ -29,3 +29,4 @@
+ ZORK.I=Type(C1),AuxType(0000),Access(C3)
+ ZORK.II=Type(C1),AuxType(0000),Access(C3)
+ ZORK.III=Type(C1),AuxType(0000),Access(C3)
++DORM=Type(C1),AuxType(0000),Access(C3)

@@ -1,0 +1,29 @@
+[info]
+ DORM
+ Copyright 2023
+ by Carrington Vanston
+ Genre: mystery
+ Difficulty: ^^&&&
+
+[description]
+ 
+ You've heard about the 8-Bit Assembly for ages, and this year you finally
+ get to attend for yourself! You've been looking forward to it all year, and
+ you plan to participate in everything the event has to offer.
+ 
+ Sure, you've heard the rumours of black magic and bizarre occurrences at
+ Rockwurst College. But those can't be true, can they? The guys on the Eaten
+ By A Grue podcast must've been joking. Funny that they never put out another
+ episode after they attended the event. That's probably a coincidence.
+ 
+ I mean, it's an Apple II convention. What's the worst that could happen?
+
+[versions]
+DORM.Z3=Release 3 / Serial number 230319
+
+[options]
+ARTWORK=1
+CLUES=0
+VERSIONS=0
+
+[eof]

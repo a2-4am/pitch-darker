@@ -1,5 +1,5 @@
 --- ../pitch-dark/src/ui.credits.a	2023-05-03 00:07:25
-+++ src/ui.credits.a	2023-05-03 00:25:41
++++ src/ui.credits.a	2023-05-03 00:39:32
 @@ -226,17 +226,17 @@
           !word $FDFD
  
