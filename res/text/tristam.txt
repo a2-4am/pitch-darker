@@ -1,0 +1,31 @@
+[info]
+ TRISTAM ISLAND
+ Copyright 2020
+ by Hugo Labrande
+ Genre: Mystery
+ Difficulty: ^^^&&
+
+[description]
+ 
+ After crashing your plane at sea, you end up drifting to a small island,
+ with not much to survive. You explore, and find out the island was
+ inhabited, years ago. But why did the people leave? And why is there a
+ fence around the white house at the top of the hill?
+ 
+ TRISTAM ISLAND is a text adventure made from the mold of Infocom; expect a
+ large geography to explore, lots of prose, a rich parser, diverse puzzles,
+ some humor and some darkness. To use Infocom's classification, I'd rate the
+ game's difficulty as "Standard"; however, the game's design is modern and
+ eschews all the frustrations commonly associated with 1980s text
+ adventures. No hunger timers, no frustrating mazes, no blocking situations
+ that force you to restart!
+
+[versions]
+TRISTAM.Z3=Release 5 / Serial Number 220830
+
+[options]
+ARTWORK=1
+CLUES=0
+VERSIONS=0
+
+[eof]
