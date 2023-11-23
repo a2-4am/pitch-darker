@@ -1,0 +1,28 @@
+[info]
+ THE MYSTERY OF WINCHESTER HIGH
+ Copyright 2023
+ by Garry Francis
+ Genre: mystery
+ Difficulty: ^&&&&
+
+[description]
+ 
+ Frederick H Winchester III was a rich man who lived in the city of Dunedin
+ in New Zealand. When he died, his mansion was bequeathed to the city to be
+ turned into a high school. Apart from the mansion, the remainder of
+ Winchester's vast fortune was never found and its whereabouts became known
+ as The Mystery of Winchester High.
+ 
+ You play the part of a 13-year old student who sets out to solve the
+ mystery and find the lost fortune after hearing that the school will be
+ closed due to funding issues and you will be transferred to a worse school.
+
+[versions]
+WINCHESTER.Z3=Release 1 / Serial number 230531
+
+[options]
+ARTWORK=1
+CLUES=0
+VERSIONS=0
+
+[eof]
