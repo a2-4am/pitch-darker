@@ -1,0 +1,29 @@
+[info]
+ CRAVERLY HEIGHTS
+ Copyright 2014
+ by Ryan Veeder
+ Genre: comedy
+ Difficulty: ^&&&&
+
+[description]
+ 
+ Craverly Heights is a short game with a lot of creativity. You play
+ Dr. Langridge, a brilliant physician at Roland Memorial Hospital. Pauline,
+ your patient, is in desperate need of an operation. Sadly, her insurance is
+ refusing to pay for it, which saddles you with the laborious task of trying
+ to raise the money yourself.
+ 
+ A dramatic setup quickly mutates into a comedy of bad acting and
+ ad-libbing. The map is small, but the rooms have a lot of personality. The
+ characters are mostly static, but their dialogue does change depending on
+ what you are wearing. There are multiple endings.
+
+[versions]
+CRAVERLY.Z3=Release 3 / Serial number 231103
+
+[options]
+ARTWORK=0
+CLUES=0
+VERSIONS=0
+
+[eof]
